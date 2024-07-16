@@ -1,0 +1,64 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Explorando Hyrule em Breath of the Wild",
+            "capa": "https://assetsio.gnwcdn.com/148430785862.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+            "link": "https://www.youtube.com/embed/1rPxiXXxftE"
+        },
+        {
+            "id": 2,
+            "titulo": "Construindo a Base Perfeita em Minecraft",
+            "capa": "https://upload.wikimedia.org/wikinews/en/7/7a/Minecraft_game_cover.jpeg",
+            "link": "https://www.youtube.com/embed/MmB9b5njVbA"
+        },
+        {
+            "id": 3,
+            "titulo": "Conquistando Vitórias em Fortnite",
+            "capa": "https://i.ebayimg.com/images/g/rKYAAOSwqY5fhrmq/s-l1600.jpg",
+            "link": "https://www.youtube.com/embed/2gUtfBmw86Y"
+        },
+        {
+            "id": 4,
+            "titulo": "Dominando as Pistas em Mario Kart 8 Deluxe",
+            "capa": "https://cdn.awsli.com.br/600x1000/53/53761/produto/16001652/75a8d64f0f.jpg",
+            "link": "https://www.youtube.com/embed/tKlRN2YpxRE"
+        },
+        {
+            "id": 5,
+            "titulo": "Sobrevivendo no Apocalipse de The Last of Us Part II",
+            "capa": "https://m.media-amazon.com/images/I/616+j9jEM4L._AC_UF894,1000_QL80_.jpg",
+            "link": "https://www.youtube.com/embed/vhII1qlcZ4E"
+        },
+        {
+            "id": 6,
+            "titulo": "Aventuras no Mundo de Red Dead Redemption 2",
+            "capa": "https://assets.vg247.com/current//2018/05/red_dead_redemption_2_cover_art_1.jpg",
+            "link": "https://www.youtube.com/embed/eaW0tYpxyp0"
+        },
+        {
+            "id": 7,
+            "titulo": "Missões Espaciais em No Man's Sky",
+            "capa": "https://i.redd.it/tqg0sjyn5x071.jpg",
+            "link": "https://www.youtube.com/embed/nLtmEjqzg7M"
+        },
+        {
+            "id": 8,
+            "titulo": "Combates Épicos em Street Fighter V",
+            "capa": "https://www.gamereactor.eu/media/32/alternatestreetfighter_1623253.jpg",
+            "link": "https://www.youtube.com/embed/G-FkbNpatb0"
+        },
+        {
+            "id": 9,
+            "titulo": "Resolvendo Enigmas em Portal 2",
+            "capa": "https://i0.wp.com/farm6.static.flickr.com/5122/5325943962_c678c0a78c.jpg?resize=368%2C500&ssl=1",
+            "link": "https://www.youtube.com/embed/tax4e4hBBZc"
+        },
+        {
+            "id": 10,
+            "titulo": "Expedições em Monster Hunter: World",
+            "capa": "https://www.monsterhunter.com/world/sp/images/top/bg_mv.jpg",
+            "link": "https://www.youtube.com/embed/Ro6r15wzp2o"
+        }
+    ]
+}
